@@ -1,4 +1,4 @@
-Here : https://job-hunt-riokurniawan-hqaw21fc7-riokurniawan-id.vercel.app/
+Here : https://job-hunt-rk.vercel.app/
 
 # Getting Started with Create React App
 
